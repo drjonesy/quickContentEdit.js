@@ -1,8 +1,8 @@
 # quickContentEdit.js
 
-* Developer: Ryan Jones
-* Date: 9/28/2016
-* Description: 	Requires jQuery. Embed a link to this file.
+* __Developer:__ Ryan Jones
+* __Date:__ 9/28/2016
+* __Description:__ 	Requires jQuery. Embed a link to this file.
               In a script tag, call the quickContentEdit() function.
               Between the parenthesis in either single or double quotes
               place an HTML element, class, or id.
