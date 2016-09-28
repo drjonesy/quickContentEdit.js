@@ -1,6 +1,7 @@
 /**
 * Developer: Ryan Jones
 * Date: 9/28/2016
+* URL: https://github.com/drjonesy/quickContentEdit.js
 * Description: 	Requires jQuery. Embed a link to this file.
                 In a script tag, call the quickContentEdit() function.
                 Between the parenthesis in either single or double quotes
